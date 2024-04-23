@@ -85,7 +85,7 @@ class MyApp extends StatelessWidget {
                         child: Column(
                           children: [
                             Text(
-                              '993',
+                              '42,5M',
                               style: TextStyle(
                                 color: Colors.white,
                                 fontWeight: FontWeight.w700,
